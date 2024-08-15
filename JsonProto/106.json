@@ -1,0 +1,96 @@
+{
+    "ai_modules": [
+        {
+            "platform_alt": 100.0,
+            "platform_lat": 23.324444524226966,
+            "platform_lon": 120.9565544128418,
+            "platform_num": 10002,
+            "type": 62
+        }
+    ],
+    "ai_modules_num": 1,
+    "protocol_type": 106,
+	"receiver_id": 0,
+	"sender_id": 0,
+    "sensor_configs": [
+        {
+            "cost": 0.7,
+            "perception_angle": 90.0,
+            "perception_direction": "FRONT",
+            "range": 5000.0,
+            "sensor_str_type": "sensor_1",
+            "sensor_type": 0,
+            "threat_judgment_rate_max": 0.8,
+            "threat_judgment_rate_min": 0.65,
+            "type_recognition_rate_max": 0.85,
+            "type_recognition_rate_min": 0.7
+        },
+        {
+            "cost": 0.6,
+            "perception_angle": 90.0,
+            "perception_direction": "FRONT",
+            "range": 4000.0,
+            "sensor_str_type": "sensor_2",
+            "sensor_type": 1,
+            "threat_judgment_rate_max": 0.85,
+            "threat_judgment_rate_min": 0.65,
+            "type_recognition_rate_max": 0.9,
+            "type_recognition_rate_min": 0.7
+        },
+        {
+            "cost": 1.0,
+            "perception_angle": 60.0,
+            "perception_direction": "FRONT",
+            "range": 8000.0,
+            "sensor_str_type": "sensor_3",
+            "sensor_type": 2,
+            "threat_judgment_rate_max": 0.55,
+            "threat_judgment_rate_min": 0.5,
+            "type_recognition_rate_max": 0.6,
+            "type_recognition_rate_min": 0.5
+        },
+        {
+            "cost": 0.8,
+            "perception_angle": 180.0,
+            "perception_direction": "OMNI",
+            "range": 6000.0,
+            "sensor_str_type": "sensor_4",
+            "sensor_type": 3,
+            "threat_judgment_rate_max": 0.65,
+            "threat_judgment_rate_min": 0.55,
+            "type_recognition_rate_max": 0.7,
+            "type_recognition_rate_min": 0.6
+        }
+    ],
+    "sensor_configs_num": 4,
+    "target_num": 1,
+    "task_area": [
+        {
+			"index": 0,
+            "task_area_point_alt": 0.0,
+            "task_area_point_lat": 23.51362636346272,
+            "task_area_point_lon": 120.87467193603516
+        },
+        {
+			"index": 1,
+            "task_area_point_alt": 0.0,
+            "task_area_point_lat": 23.51362636346272,
+            "task_area_point_lon": 121.07242584228516
+        },
+        {
+			"index": 2,
+            "task_area_point_alt": 0.0,
+            "task_area_point_lat": 23.327754771531193,
+            "task_area_point_lon": 121.07242584228516
+        },
+		{
+			"index": 3,
+            "task_area_point_alt": 0.0,
+            "task_area_point_lat": 23.327439513436268,
+            "task_area_point_lon": 120.87467193603516
+        }
+    ],
+    "task_area_point_num": 4,
+    "task_name": "Test-Scene",
+    "team_name": ""
+}

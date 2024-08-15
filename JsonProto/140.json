@@ -1,0 +1,82 @@
+{
+    "consensus_infos": [
+        {
+            "platform_num": 10002,
+            "platform_alt": 100.0,
+            "platform_lat": 23.32545856472726,
+            "platform_lon": 120.95695634101413,
+            "results": [
+                {
+                    "platform_alt": 0.0,
+                    "platform_lat": 23.334690260349362,
+                    "platform_lon": 120.94797134399414,
+                    "target_id": 1,
+                    "target_types": [
+                        {
+                            "target_type": 2,
+                            "target_type_confidence": 0.7329999804496765
+                        },
+                        {
+                            "target_type": 3,
+                            "target_type_confidence": 0.22999999821186066
+                        },
+                        {
+                            "target_type": 4,
+                            "target_type_confidence": 0.08999999910593033
+                        },
+                        {
+                            "target_type": 0,
+                            "target_type_confidence": 0.059999999552965164
+                        }
+                    ],
+                    "target_types_num": 4,
+                    "threat_level": 1,
+                    "threat_level_confidence": 0.7720999717712402
+                }
+            ],
+            "results_num": 1
+        },
+        {
+            "platform_num": 10003,
+            "platform_alt": 100.0,
+            "platform_lat": 23.32545856472726,
+            "platform_lon": 120.93910355781101,
+            "results": [
+                {
+                    "platform_alt": 0.0,
+                    "platform_lat": 23.334690260349362,
+                    "platform_lon": 120.94797134399414,
+                    "target_id": 1,
+                    "target_types": [
+                        {
+                            "target_type": 2,
+                            "target_type_confidence": 0.8664000034332275
+                        },
+                        {
+                            "target_type": 3,
+                            "target_type_confidence": 0.0840000295639038
+                        },
+                        {
+                            "target_type": 4,
+                            "target_type_confidence": 0.01960000216960907
+                        },
+                        {
+                            "target_type": 0,
+                            "target_type_confidence": 0.00850000001490116
+                        }
+                    ],
+                    "target_types_num": 4,
+                    "threat_level": 1,
+                    "threat_level_confidence": 0.7720999717712402
+                }
+            ],
+            "results_num": 1
+        }
+    ],
+    "consensus_infos_num": 2,
+    "protocol_type": 140,
+	"receiver_id": 0,
+	"sender_id": 0,
+    "task_name": "",
+    "team_name": ""
+}

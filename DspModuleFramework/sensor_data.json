@@ -1,0 +1,122 @@
+[
+    {
+        "sensor_id": 1,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 2,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 3,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 4,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 5,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 6,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 7,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 8,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 9,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 10,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 11,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 12,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 13,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 14,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 15,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 16,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 17,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 18,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 19,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    },
+    {
+        "sensor_id": 20,
+        "sensor_type": 2,
+        "sensor_radius": 4000,
+        "sensor_angle": 180
+    }
+]

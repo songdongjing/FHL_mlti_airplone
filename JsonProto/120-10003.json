@@ -1,0 +1,23 @@
+{
+    "platform_control": {
+        "platform_num": 10003,
+        "platform_alt": 100.0,
+        "platform_lat": 23.324444524226966,
+        "platform_lon": 120.93870162963867
+    },
+    "protocol_type": 120,
+	"receiver_id": 10003,
+	"sender_id": 10003,
+    "state_config_info_num": 1,
+    "targets": [
+        {
+            "platform_alt": 0.0,
+            "platform_lat": 23.334690260349362,
+            "platform_lon": 120.94797134399414,
+            "target_id": 1
+        }
+    ],
+    "targets_num": 1,
+    "task_name": "",
+    "team_name": ""
+}

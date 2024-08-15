@@ -1,0 +1,31 @@
+{
+    "protocol_type": 130,
+    "custom_content": "用户自定义字段，可以是一段xml或者一段json或者其他自定义数据",
+    "platform_num": 10002,
+    "platform_alt": 2000.0,
+    "platform_lat": 22.234,
+    "platform_lon": 102.2341,
+    "recv_platforms_num": 1,
+    "recv_platforms": [
+        10002,
+        10001
+    ],
+    "sensing_area": {
+        "perception_angle": 90.0,
+        "platform_course": 110.19999694824219,
+        "range": 5000.0
+    },
+    "target_infos_num": 1,
+    "target_infos": [
+        {
+            "platform_alt": 0.0,
+            "platform_lat": 23.334690260349362,
+            "platform_lon": 120.94797134399414,
+            "target_id": 1
+        }
+    ],
+    "task_name": "Test-Scene",
+    "team_name": "九洲测试团队",
+    "sender_id": 10002,
+    "receiver_id": 10002
+}

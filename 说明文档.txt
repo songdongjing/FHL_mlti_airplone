@@ -1,0 +1,22 @@
+PythonGRPC文件夹内competition.py为外部模块框架示意。
+PythonGRPC文件夹内competition_module.py为外部模块的示例。
+PythonGRPC文件夹内PythonGRPC.py为程序框架。
+PythonGRPC文件夹内jsonservice_pb2.py和jsonservice_pb2_grpc.py为grpc根据proto文件自动生成的网络协议文件。
+JsonProto内为网络协议json示例。
+dependences文件夹为所有框架程序依赖包，可以通过python -m pip install --no-index --find-links=dependences -r requirements.txt命令行进行离线安装。
+
+本次框架可打包成exe测试
+
+DspDriveTool文件夹内DspDriveTool.exe为数据收发测试工具，可以收发一套消息包，模拟一次（单次）与算法模块交互的完整流程，参考《竞赛系统接口协议及参赛方实现说明》流程图。但没有持续推演功能。直接双击DspDriveTool.exe运行即可。
+VC++ 2015-2022运行时库，DspDriveTool.exe运行需要使用。
+
+直接运行python框架.bat 可以直接运行Python测试框架。
+直接运行测试工具.bat 可以直接运行DspDriveTool.exe数据收发测试工具。
+
+操作步骤：
+第一步：安装VC++ 2015-2022运行时库。
+第二步：解压Python37或者自行部署Python运行环境。
+第三步：运行DspDriveTool.exe；
+第四步：运行可测试Python框架.bat或者使用参赛方的Python环境运行PythonGRPC.py文件。
+第五步：在competition_module.py填写算法模块或者接口，收发包内容具体格式参考《竞赛系统接口协议及参赛方实现说明》以及JsonProto内中的文件。
+第六步：可以使用自定义Python算法模块文件替换competition_module.py，但是要修改competition_module在PythonGRPC.py中的使用和接口替换。

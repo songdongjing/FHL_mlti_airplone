@@ -1,0 +1,57 @@
+{
+    "modules": [
+        {
+            "custom_content": "用户自定义字段，可以是一段xml或者一段json或者其他自定义数据",
+            "platform_alt": 2000.0,
+            "platform_lat": 22.234,
+            "platform_lon": 102.2341,
+            "platform_num": 10002,
+            "recv_platforms": [],
+            "recv_platforms_num": 0,
+            "sensing_area": {
+                "perception_angle": 90.0,
+                "platform_course": 110.19999694824219,
+                "range": 5000.0
+            },
+            "target_infos": [
+                {
+                    "platform_alt": 0.0,
+                    "platform_lat": 23.334690260349362,
+                    "platform_lon": 120.94797134399414,
+                    "target_id": 1
+                }
+            ],
+            "target_infos_num": 1
+        },
+        {
+            "custom_content": "用户自定义字段，可以是一段xml或者一段json或者其他自定义数据",
+            "platform_alt": 2000.0,
+            "platform_lat": 22.234,
+            "platform_lon": 102.2341,
+            "platform_num": 10003,
+            "recv_platforms": [],
+            "recv_platforms_num": 0,
+            "sensing_area": {
+                "perception_angle": 90.0,
+                "platform_course": 110.19999694824219,
+                "range": 5000.0
+            },
+            "target_infos": [
+                {
+                    "platform_alt": 0.0,
+                    "platform_lat": 23.334690260349362,
+                    "platform_lon": 120.94797134399414,
+                    "target_id": 1
+                }
+            ],
+            "target_infos_num": 1
+        }
+    ],
+    "modules_num": 2,
+    "platform_num": 10002,
+    "protocol_type": 131,
+    "receiver_id": 10002,
+    "sender_id": -1,
+    "task_name": "Test-Scene",
+    "team_name": "scene_name"
+}

@@ -1,0 +1,13 @@
+{
+    "protocol_type": 121,
+    "platform_control": {
+        "platform_course": 90,
+        "platform_pitch": 0.0,
+        "platform_num": 10002,
+        "platform_rate": 30
+    },
+    "task_name": "–≠Õ¨À—À˜1",
+    "team_name": "√‡—Ù≤‚ ‘",
+    "sender_id": 10002,
+    "receiver_id": 10002
+}
