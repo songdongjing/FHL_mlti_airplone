@@ -1,5 +1,0 @@
-('E:\\UESTC-FHL2.0\\DspModuleFramework\\build\\DspModuleFramework\\jsonpath-0.82.2-py3.8.egg',
- None,
- {'EGG-INFO', '*.cp38-win_amd64.pyd', '*.pyw', '*.pyc', '*.pyd', '*.py'},
- 'DATA',
- [])

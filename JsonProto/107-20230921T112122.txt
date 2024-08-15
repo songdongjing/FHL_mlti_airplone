@@ -1,1 +1,0 @@
-{"protocol_type": 107, "platform_init_num": 1, "competition_type": 2, "task_name": "Test-Scene", "team_name": "æ≈÷ﬁ≤‚ ‘Õ≈∂”", "sensors": [{"carry": true, "platform_num": 10001, "sensor_type": 2, "sensor_str_type": "sensor_2"}], "sender_id": 0, "receiver_id": 0}

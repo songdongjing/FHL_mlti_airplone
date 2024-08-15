@@ -1,1 +1,0 @@
-{"protocol_type": 102, "identity": 0, "seatid": 0, "ip": "127.0.0.1", "port": 0, "task_name": "test", "team_name": "scene_name", "username": "login", "sender": "login", "receiver": "login", "sender_id": 0, "receiver_id": 0}
